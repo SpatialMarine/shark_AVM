@@ -1,0 +1,6 @@
+﻿id_product;var_name;variable;product_type;provider;service;layer;standard_name;units;date_min;date_max;depth_min;depth_max;temporal_resolution;spatial_resolution;var;xmin;xmax;ymin;ymax;subvar;date_min_total;date_max_total
+1;temp_Reanalysis;thetao;Reanalysis;CMEMS;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-tem-rean-d;Sea_water_potential_temperature;ºC;2020-12-01;2022-06-30;-1;-5754;daily;0.042° × 0.042°;thetao;-2;4;36;42;thetao;01/01/1987;30/06/2021
+3;SBO_Reanalysis;o2;Reanalysis;CMEMS;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-bio-rean-d;Mole_concentration_of_dissolved_molecular_oxygen_in_sea_water;mmol/m3;2020-12-01;2022-06-30;-1;-4152,9;daily;0.042° × 0.042°;o2;-2;4;36;42;o2;01/01/1999;30/06/2021
+5;SAL_Reanalysis;so;Analysis;CMEMS;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-sal-rean-d;sea_water_salinity;psu;2020-12-01;2022-06-30;-1;-4152,9;daily;0.042° × 0.042°;so;-2;4;36;42;so;01/01/1987;30/06/2021
+7;pH_Reanalysis;ph;Analysis;CMEMS;MEDSEA_MULTIYEAR_BGC_006_008;med-ogs-car-rean-d;sea_water_ph_reported_on_total_scale;1;2020-12-01;2022-06-30;-1;-4152,9;daily;0.042° × 0.042°;ph;-2;4;36;42;ph;01/01/1999;01/06/2021
+9;SBT_Reanalysis;bottomT;Reanalysis;CMEMS;MEDSEA_MULTIYEAR_PHY_006_004;med-cmcc-tem-rean-d;Sea_water_potential_temperature;ºC;2020-12-01;2022-06-30;-1;-5754;daily;0.042° × 0.042°;bottomT;-2;4;36;42;bottomT;01/01/1987;30/06/2021
