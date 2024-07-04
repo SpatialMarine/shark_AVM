@@ -1,0 +1,70 @@
+# Machine learning reveals key drivers of at-vessel mortality in demersal sharks
+
+**Authors omitted during review period**
+
+The present database was used to fit the boosted regression trees models presented in this scientific article. 
+
+
+### This database contains information on:
+
+
+#### (1) The relative identification of each individual studied, including:
+
+Database code   Full name 								Units
+
+scientificName	Scientific name of the study species 					Scyliorhinus canicula, Galeus melastomus
+
+spCode		Code given to name each species  					Scyliorhinus canicula == Scanicula, Galeus melastomus == Gmelastomus
+
+organismID	identification number given to each specimen 				ranging from 1 to 3079 
+
+towN		identification number given to each tow analysed			ranging from 1 to 66		
+
+vessel		identification number given to each trawler collaborating in the study	ranging from 1 to 8
+
+date		date when the tow occurred						ranging from 02-12-2020 to 15-06-2022
+
+Vessel name and fishing location was omitted as observation campaigns were conducted on board commercial trawlers and such information is confidential.
+
+ 
+
+
+#### (2) Survival stage of the specimen at the time when sharks were released back to sea:
+
+Database code   Full name				Units
+
+mortality	Mortality stage of the specimen		0 == alive,  1 == dead
+
+ 
+
+
+
+#### (3) Biological, environmental and fishing operation predictors considered into the modelling approach.
+
+Database code   Full name						Units
+
+TL		Body size						centimeters
+
+MAT		Maturity						0 == immature , 1 == mature
+	
+SEX		Sex							0 == male, 1 == female
+
+DEPTH		Tow depth						meters
+	
+DUR		Effective towing duration				hours
+		
+SPEED		Towing speed						knots
+
+TOWMASS		Total catch biomass in the tow cod-end			kilograms
+	
+DECKTIME	Time exposed on deck					minutes
+
+CLOUD		Cloud coverage						%
+
+SEASTATE	Sea state						Douglas scale (0 to 9)
+
+WIND		Wind force						Beaufort scale (0 to 12)
+
+ATEMP		Atmospheric temperature					ºC
+
+DTEMP		Change from atmospheric to sea bottom temperature	ºC
