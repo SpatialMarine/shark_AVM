@@ -1,6 +1,8 @@
 # shark_AVM
 Here is a series of scripts to download enviromental variables, extract values from 2D and 3D netCDFs, and fit BRT models.
-Cite using the following doi:(https://zenodo.org/)
+Cite using the following doi:(https://zenodo.org/).
+
+The dataset used in this study is also available (AVM_demersalSharks.csv).
 
 ### Scripts available
 *1_Preparing_dataframe*: Data organising.
