@@ -2,7 +2,7 @@
 Here is a series of scripts to download enviromental variables, extract values from 2D and 3D netCDFs, and fit BRT models.
 Cite using the following doi:(https://zenodo.org/).
 
-The dataset used in this study is also available (AVM_demersalSharks.csv) as well as an explanation of it (databaseExplanation.txt)
+The dataset used in this study, titled 'AVM_demersalSharks.csv,' is available along with a detailed explanation provided in 'databaseExplanation.txt.'
 
 ### Scripts available
 *1_Preparing_dataframe*: Data organising.
